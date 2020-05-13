@@ -1,0 +1,14 @@
+@for $i from 1 through 6 {
+	h#{$i} {
+		padding: 1rem;
+	}
+}
+
+code {
+	display: inline-block;
+	margin: 0 .2rem;
+	padding: .2rem 1rem;
+	border-radius: 3px;
+	background-color: beige;
+	color: maroon;
+}
