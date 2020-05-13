@@ -6,11 +6,12 @@ This repository holds my go-to preset when creating a new React app.
 
 This starter comes with the following:
 
-- `node-sass` which enables you to use *SASS* and *SCSS*
+- `node-sass` which enables you to use *SASS* and *SCSS*.
 - `react-app-rewired` which enables you to override some default `create-react-app` configuration 
 without ejecting.
-- `eslint` configured to enforce an AirBnB code style
+- `eslint` configured to enforce an AirBnB code style.
 - `react-helmet` to help you change the meta properties of the pages being rendered.
+- `Tailwind CSS` setup and installed for direct use on the project.
 
 Because this is only a template started, you should always try to update the dependencies.
 
